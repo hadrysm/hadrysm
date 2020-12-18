@@ -20,7 +20,7 @@ I'm Mateusz Hadryś , a 25-year old technical enthusiast who does web developmen
 
 - <img alt="GatsbyJS" title="GatsbyJS" src="https://i.imgur.com/2IONuD0.png" height="24">&nbsp;&nbsp;&nbsp;&nbsp;
 
-![Mateusz github stats](https://github-readme-stats.vercel.app/api?username=hadrysm&show_icons=true&theme=dark)
+<!-- ![Mateusz github stats](https://github-readme-stats.vercel.app/api?username=hadrysm&show_icons=true&theme=dark) -->
 
 ## Let's work together:
 

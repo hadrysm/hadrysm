@@ -15,8 +15,6 @@ Grill the idea, write the spec, cut the tickets, then walk away.
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mateusz-hadry%C5%9B-02a4951a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/mateusz-hadry%C5%9B-02a4951a2/">
+  <img src="https://img.shields.io/badge/Mateusz%20Hadry%C5%9B-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=004182" alt="LinkedIn — Mateusz Hadryś" />
+</a>

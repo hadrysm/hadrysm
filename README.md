@@ -8,10 +8,10 @@ Full-stack developer. Started on the frontend in 2019, now working across the wh
 
 Grill the idea, write the spec, cut the tickets, then walk away.
 
-- 🔥 **Grilling** — the agent questions the idea until the gaps and edge cases show up
-- 📄 **Spec** — what survives the grilling gets written down before any code happens
-- 🎫 **Tickets** — the spec is sliced into small, independent units of work
-- 🌙 **AFK agents** — agents pick up the tickets and work through them without me
+- 🔥 **Grilling** - the agent questions the idea until the gaps and edge cases show up
+- 📄 **Spec** - what survives the grilling gets written down before any code happens
+- 🎫 **Tickets** - the spec is sliced into small, independent units of work
+- 🌙 **AFK agents** - agents pick up the tickets and work through them without me
 
 ---
 

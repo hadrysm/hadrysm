@@ -6,9 +6,10 @@ Full-stack developer. Started on the frontend in 2019, now working across the wh
 
 ### 🤖 How I work with agents
 
-Spec first, then tickets, then I walk away.
+Grill the idea, write the spec, cut the tickets, then walk away.
 
-- 📄 **Spec** — the idea gets written down before any code happens
+- 🔥 **Grilling** — the agent questions the idea until the gaps and edge cases show up
+- 📄 **Spec** — what survives the grilling gets written down before any code happens
 - 🎫 **Tickets** — the spec is sliced into small, independent units of work
 - 🌙 **AFK agents** — agents pick up the tickets and work through them without me
 
